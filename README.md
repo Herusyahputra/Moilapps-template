@@ -27,7 +27,7 @@ This application is the application of moilutils templates to build an applicati
   #### -Running program
   ``` $ python3 main.py```
   
- ### Result
+ ### Show to user interface
   ![tttte](https://user-images.githubusercontent.com/60929939/200569439-523d5fd8-3971-48ce-825b-bd911c75d68a.png)
   
   
